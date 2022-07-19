@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7fe51c4-959e-4f88-abb0-d189cbd3c0aa" name="Changes" comment="" />
+    <list default="true" id="d941824e-0085-4d83-9ac0-5a10f8f6e669" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Conteudo do Curso/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2CBOFdtdyBtVVIIWZIcEZ0vzUHy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2CBPW5h1twzoaxGnRRv6tGe6cV2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,24 +23,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
-      <module name="Conteudo do Curso" />
+      <module name="Especialista-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Conteudo do Curso" />
+      <module name="Especialista-Java" />
       <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -49,11 +40,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b7fe51c4-959e-4f88-abb0-d189cbd3c0aa" name="Changes" comment="" />
-      <created>1658272411060</created>
+      <changelist id="d941824e-0085-4d83-9ac0-5a10f8f6e669" name="Changes" comment="" />
+      <created>1658273035346</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1658272411060</updated>
+      <updated>1658273035346</updated>
     </task>
     <servers />
   </component>
